@@ -1,6 +1,6 @@
 def main_function():
 	action = input('\nВведите операцию: ')
-	count_of_actions = int(input('Введите кол-во операндов: '))
+	count_of_actions = int(input('Введите количество операндов: '))
 	answer = 0
 	count_numbers = ''
 
